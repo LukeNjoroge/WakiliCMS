@@ -30,7 +30,7 @@ public class LoginRequest {
 
     public static class ServerLoginRequest {
         @Expose
-        @SerializedName("email")
+        @SerializedName("username")
         private String email;
 
         @Expose
