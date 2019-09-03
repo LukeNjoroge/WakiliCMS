@@ -27,10 +27,10 @@ This repository contains a detailed sample app that implements MVP architecture 
 <br>
 
 # Read the below listed articles. They describe the MVP concepts and the Project structure.
-1. [MVP: Part 1](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-1-74efaf1cda40#.lkml1yggq)
-2. [MVP: Part 2](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-2-b2ac6f3f9637#.dge0wl8rl)
-3. [MVP: Part 3](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-3-dialog-viewpager-and-7bdfab86aabb)
-4. [Extension with Interactors and Repositories](https://blog.mindorks.com/android-mvp-architecture-extension-with-interactors-and-repositories-bd4b51972339)
+1. [MVP: Part 1](https://github.com/LukeNjoroge/WakiliCMS)
+2. [MVP: Part 2](https://github.com/LukeNjoroge/WakiliCMS)
+3. [MVP: Part 3](https://github.com/LukeNjoroge/WakiliCMS)
+4. [Extension with Interactors and Repositories](https://github.com/LukeNjoroge/WakiliCMS)
 
 #### The app has following packages:
 1. **data**: It contains all the data accessing and manipulating components.
@@ -82,20 +82,20 @@ When we follow any architecture pattern like MVP, MVVM, MVP clean, we always com
 
 ### How to Install
 
-Find the template/MVPActivity folder under root directory of android-mvp-architecture app. Paste the MVPActivity folder at below location.
+Find the template/MVPActivity folder under root directory of WakiliCMS app. Paste the MVPActivity folder at below location.
 1. Windows - C:\Program Files\Android\Android Studio\plugins\android\lib\templates\activities
 2. Mac - /Applications/Android/Studio.app/Contents/plugins/android/lib/templates/activities
 
 Restart the Android Studio.
 
-![Blueprint](https://github.com/sachinrana135/android-mvp-architecture/blob/feature/mvp_template/template/how_to_install.gif)
+![Blueprint](https://github.com/LukeNjoroge/WakiliCMS)
 <br>
 
 ### How to use
 
 Select the folder under which you want to create a new MVP folder. This MVP folder will contain Activity, Presenter, MVpPresenter and View class. For example, to create a new MVP folder under “view” folder, do as shown below.
 
-![Blueprint](https://github.com/sachinrana135/android-mvp-architecture/blob/feature/mvp_template/template/How_to_use_template.gif)
+![https://github.com/LukeNjoroge/WakiliCMS)
 <br>
 
 
